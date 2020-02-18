@@ -22,7 +22,7 @@ Afterwards the user must import his Ganache account trough MetaMask, which can b
 
 ### Technology Stack
 
-My project uses truffle framework, Ganache, MetaMask extension, solidity programming language, Bootstrap for the front-end, JSON and JS.
-Requirements for my project to run:
+My project uses the following stack: truffle framework, Ganache, MetaMask extension, solidity programming language, Bootstrap for the front-end, JSON and JS.
+Requirements for my project to run sucessfully:
 Have Ganache open and running
 Have MetaMask extension installed, and connected to an existing Ganache Account
