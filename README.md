@@ -17,7 +17,7 @@ Afterwards the user must import his Ganache account trough MetaMask, which can b
 
 ### Logical View
 
-<img src="https://raw.githubusercontent.com/Idzo721/CSUP-Blockchain/master/Project_Connection.png" width = "200"> 
+<img src="https://raw.githubusercontent.com/Idzo721/CSUP-Blockchain/master/Project_Connection.png" width = "500"> 
 
 
 ### Technology Stack
